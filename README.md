@@ -29,7 +29,7 @@ This template provides a solid foundation for developing a RESTful API using Fas
 ## Installation
 
 1. **Clone the repository**:
-   git clone https://github.com/your-username/api-template.git
+   git clone https://github.com/tstechnik/api-template.git
    cd api-template
 
 2. **Create and activate a virtual environment (if necessary):**:
@@ -48,3 +48,5 @@ Start the development server with the following command:
 uvicorn main:app --reload
 
 The API is now available at http://localhost:8000.
+
++ tgbot.py if you want to launch a TG mini app.
