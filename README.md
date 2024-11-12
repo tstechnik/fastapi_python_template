@@ -23,8 +23,8 @@ This template provides a solid foundation for developing a RESTful API using Fas
 ## Prerequisites
 
 - [Programming Language, e.g., Python 3.8+]
-- [Framework, e.g., Flask]
-- [Database, e.g., PostgreSQL]
+- [Framework, e.g., FastAPI]
+- [Database, e.g., MongoDB]
 
 ## Installation
 
