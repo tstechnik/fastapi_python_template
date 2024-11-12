@@ -29,7 +29,7 @@ This template provides a solid foundation for developing a RESTful API using Fas
 ## Installation
 
 1. **Clone the repository**:
-   git clone https://github.com/tstechnik/api-template.git
+   git clone https://github.com/tstechnik/fastapi_python_template.git
    cd api-template
 
 2. **Create and activate a virtual environment (if necessary):**:
