@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 4. **Configure the database::**:
 Create a database named example api_template_db.
-Update the database settings in databe.py. # database = client.api_template_db
+Update the database settings in database.py. # database = client.api_template_db
 
 5. **Configure the database::**:
 Start the development server with the following command:
