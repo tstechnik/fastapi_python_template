@@ -1,0 +1,3 @@
+pip install fastapi uvicorn motor
+pip install python-telegram-bot
+pip install transformers torch
